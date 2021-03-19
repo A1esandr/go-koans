@@ -1,3 +1,3 @@
-module go-koans
+module gokoans
 
 go 1.16
